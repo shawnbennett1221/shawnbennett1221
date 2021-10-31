@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shawnbennett1221, i am a personal fitness trainer and life coach
-- 👀 I’m interested in ... programming in python and data science or data analysis.  Coding
-- 🌱 I’m currently learning ... Python programming, html, css, reactjs, django, flask etc.
-- 💞️ I’m looking to collaborate on ... self directed project(s) fitness investment data service or "fitness insurance services"
+- 👀 I’m interested in ... programming in python and data science, data analysis, health analytics & Coding
+- 🌱 I’m currently learning ... Python programming, html, css, reactjs, django, flask, sql {Mysql}, Ubuntu Administration, Networking
+- 💞️ I’m looking to collaborate on ... self directed project(s) fitness $ investment data service.  "fitness insurance services"
 - 📫 How to reach me ... email utcamped@gmail.com or my corporate linkedin account 3rdwtss
 
 <!---
